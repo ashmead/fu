@@ -1,5 +1,5 @@
 fu
 ==
 i know gung\!\n
-fu?\n
+fu\?\n
 Show Me...
